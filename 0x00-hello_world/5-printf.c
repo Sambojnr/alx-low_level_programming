@@ -4,7 +4,7 @@
  *
  *Return:Always	0
  */
-intmain(void)
+int main(void)
 {
 	printf("withpropergrammar,buttheoutcome	isapieceofart,\n");
 	return (0);
